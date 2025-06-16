@@ -27,11 +27,18 @@
 ## 📁 檔案結構
 
 auto-tab-sorter/
+
 ├── background.js
+
 ├── manifest.json
+
 ├── icons/
+
 │ ├── icon16.png
+
 │ ├── icon32.png
+
 │ ├── icon48.png
+
 │ └── icon128.png
 
